@@ -1,5 +1,6 @@
-{	"author": "Leonardo Zanini",
+{
 	"name": "fcc-learn-npm-package-json",
+	"author": "Leonardo Zanini",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
